@@ -1,0 +1,14 @@
+C:\Users\chuch\OneDrive\Documentos\Programacion\Fibonacci\bin\Debug\net9.0\Fibonacci.exe
+C:\Users\chuch\OneDrive\Documentos\Programacion\Fibonacci\bin\Debug\net9.0\Fibonacci.deps.json
+C:\Users\chuch\OneDrive\Documentos\Programacion\Fibonacci\bin\Debug\net9.0\Fibonacci.runtimeconfig.json
+C:\Users\chuch\OneDrive\Documentos\Programacion\Fibonacci\bin\Debug\net9.0\Fibonacci.dll
+C:\Users\chuch\OneDrive\Documentos\Programacion\Fibonacci\bin\Debug\net9.0\Fibonacci.pdb
+C:\Users\chuch\OneDrive\Documentos\Programacion\Fibonacci\obj\Debug\net9.0\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chuch\OneDrive\Documentos\Programacion\Fibonacci\obj\Debug\net9.0\Fibonacci.AssemblyInfoInputs.cache
+C:\Users\chuch\OneDrive\Documentos\Programacion\Fibonacci\obj\Debug\net9.0\Fibonacci.AssemblyInfo.cs
+C:\Users\chuch\OneDrive\Documentos\Programacion\Fibonacci\obj\Debug\net9.0\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\chuch\OneDrive\Documentos\Programacion\Fibonacci\obj\Debug\net9.0\Fibonacci.dll
+C:\Users\chuch\OneDrive\Documentos\Programacion\Fibonacci\obj\Debug\net9.0\refint\Fibonacci.dll
+C:\Users\chuch\OneDrive\Documentos\Programacion\Fibonacci\obj\Debug\net9.0\Fibonacci.pdb
+C:\Users\chuch\OneDrive\Documentos\Programacion\Fibonacci\obj\Debug\net9.0\Fibonacci.genruntimeconfig.cache
+C:\Users\chuch\OneDrive\Documentos\Programacion\Fibonacci\obj\Debug\net9.0\ref\Fibonacci.dll
