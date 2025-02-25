@@ -1,0 +1,14 @@
+C:\Users\chuch\OneDrive\Documentos\Programacion\practica2\bin\Debug\net9.0\practica2.exe
+C:\Users\chuch\OneDrive\Documentos\Programacion\practica2\bin\Debug\net9.0\practica2.deps.json
+C:\Users\chuch\OneDrive\Documentos\Programacion\practica2\bin\Debug\net9.0\practica2.runtimeconfig.json
+C:\Users\chuch\OneDrive\Documentos\Programacion\practica2\bin\Debug\net9.0\practica2.dll
+C:\Users\chuch\OneDrive\Documentos\Programacion\practica2\bin\Debug\net9.0\practica2.pdb
+C:\Users\chuch\OneDrive\Documentos\Programacion\practica2\obj\Debug\net9.0\practica2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chuch\OneDrive\Documentos\Programacion\practica2\obj\Debug\net9.0\practica2.AssemblyInfoInputs.cache
+C:\Users\chuch\OneDrive\Documentos\Programacion\practica2\obj\Debug\net9.0\practica2.AssemblyInfo.cs
+C:\Users\chuch\OneDrive\Documentos\Programacion\practica2\obj\Debug\net9.0\practica2.csproj.CoreCompileInputs.cache
+C:\Users\chuch\OneDrive\Documentos\Programacion\practica2\obj\Debug\net9.0\practica2.dll
+C:\Users\chuch\OneDrive\Documentos\Programacion\practica2\obj\Debug\net9.0\refint\practica2.dll
+C:\Users\chuch\OneDrive\Documentos\Programacion\practica2\obj\Debug\net9.0\practica2.pdb
+C:\Users\chuch\OneDrive\Documentos\Programacion\practica2\obj\Debug\net9.0\practica2.genruntimeconfig.cache
+C:\Users\chuch\OneDrive\Documentos\Programacion\practica2\obj\Debug\net9.0\ref\practica2.dll
